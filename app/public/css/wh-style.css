@@ -1,0 +1,54 @@
+.simplelender_add_node{
+	padding:5px 30px;
+	border-radius:5px;
+}
+.simplelender_close_recipient_class, .simplelender_close_url_class, .simplelender_close_args_class{
+	cursor:pointer;
+}
+.simplelender_menu_item_a{
+	padding:20px;
+	color:#fff;
+	text-decoration:none;
+}
+#simplelender_webhook_input{
+	
+}
+
+#simplelender_webhook_tags{
+	float:left;	
+	padding:60px 50px;
+	background:#fff;
+	margin-top:20px;
+	border-radius:5px;
+}
+
+#simplelender_webhook_input{
+	float:left;	
+	padding:30px;
+	width:60%;
+}
+.adienienti_tag_copier_body {
+	cursor: pointer;
+}
+.simplelender_loan_tags, .simplelender_more_tags{
+	display:none;
+}
+#right_simplelender_menu_item{
+	float:right !important;
+}
+a:active, a:focus {
+  outline: 0;
+  border: none;
+  -moz-outline-style: none;
+  box-shadow: none;
+}
+#final input[type=submit]{
+	padding:10px 30px;
+	border-radius:5px;
+	background-color:#05370699;
+	color:#fff;
+	border:0px;
+ }
+ code:active {
+	 border:1px red solid;
+ }

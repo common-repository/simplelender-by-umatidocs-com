@@ -1,0 +1,323 @@
+.loan_stages td{
+	padding:6px 40px;
+	border: 1px white solid;
+	border-radius: 5px;	
+}
+.validation_message{
+	display:none;
+}
+.simplelender_input_feild,select.simplelender_input_feild{
+	width:100%;
+}
+
+.simplelender_textare_input_feild{
+	width:100%;
+	height:100px;
+	border-radius:4px;
+	padding:5px;
+	font-size:16px;
+}
+
+.simplelender_title_feild{
+	font-size:14px;
+	padding-top:15px;
+	padding-bottom:5px;
+	font-weight:600;
+	color:#444c;
+}
+/*
+.simplelender_input{
+ border-radius:5px;
+ padding:30px;
+ margin:20px;
+ background:#fff;
+}*/
+.wrap .simplelender_input{
+	border: 1px solid #ccd0d4;
+	box-shadow: 0 1px 1px rgba(0,0,0,.04);
+}
+.simplelender_title_feild{
+	padding:20px;
+}
+.simplelender_sub_title{
+	/*border-top: 1px solid #ccd0d4; */
+	font-weight: 400;
+	text-align: left;
+	font-size: 14px;
+	padding: 8px 10px;
+	color:#444;
+	font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;
+	font-size: 13px;
+	line-height: 1.4em;
+	background-color:#fff;
+}
+.sl_menu_html{
+	margin-top:40px;
+	width:100%;
+	height:40px;
+}
+.sl_menu_item, .sl_menu_item:hover{
+	background-color:#05370699;
+	color:#fff;
+	padding:15px;
+	text-decoration:none;
+	border-radius:5px;
+}
+.sl_house_keeping_link, .sl_house_keeping{
+	color:;
+	text-decoration:none;
+}
+.sl_list_name{
+	font-weight:600;
+	color:#444c;
+}
+#simplelender_application, #simplelender_application, #simplelender_more_info, #simplelender_processed, #simplelender_repayment, #simplelender_close{
+	min-height:40px;
+	float:left;
+	color:#fff;
+	padding:30px 0px;
+	font-size:30px;
+}
+.sl_stat_flow_description{
+	font-size:12px;
+	padding-top:40px;
+}
+
+#simplelender_application{
+	width:23%;	
+	background-color:#091890ad;
+	float:left;
+	padding:150px 0px;
+}
+#simplelender_more_info{
+	width:13%;
+	background-color:#0f8726cc;
+	float:left;
+	padding:150px 0px;
+}
+#simplelender_processed{
+	width:19%;
+	background-color:#076e2a70;
+	float:left;
+	padding:150px 0px;
+}
+#simplelender_repayment{
+	width:25%;
+	background-color:#2207dcc9;
+	float:left;
+	padding:150px 0px;
+}
+#simplelender_close{
+	width:13%;
+	background-color:#4104aeb3;
+	float:left;
+	padding:150px 0px;
+}
+
+.simplelender_flow_stats{
+	min-height:50px;
+	padding:15px;
+}
+.simplelender_flow_stats_intro{
+	width:100%;
+	
+}
+.simplelender_application_top, .simplelender_close_top, .simplelender_repayment_top, .simplelender_adedcline_top, .simplelender_minfore_top{
+	background-color: #6e6e93c4;
+    color: #fff;
+    border-radius: 3px;
+}
+.simplelender_application_top_a{
+	color:#fff !important;
+	text-decoration:none;
+}
+.simplelender_title_feild td{
+	padding:10px 25px;
+}
+.loan_transactions_link{
+	float:right;
+}
+.sl_dash_link{
+	min-height:40px;
+	float:left;
+	color:#fff;
+	padding:30px;
+	font-size:30px;
+	min-width:18%;
+}
+#simplelender_process_sumary{}
+#simplelender_more_info{}
+#simplelender_approved{}
+#simplelender_Declined{}
+/*
+.simplelender_input_feild{
+	width:;
+	height:35px;
+	border-radius:4px;
+	padding:5px;
+	font-size:16px;
+}*/
+
+.simplelender_title_feild{
+	font-size:14px;
+	padding-top:15px;
+	padding-bottom:5px;
+	font-weight:600;
+	color:#444c;
+}
+/*
+.simplelender_input{
+ border-radius:5px;
+ padding:30px;
+ margin:20px;
+ background:#fff;
+} */
+.simplelender_menu_html{
+	margin-left:25px;
+	margin-top:40px;
+}
+.simplelender_menu_item_active, .sl_menu_item:hover{
+	background-color:#05370699;
+	color:#fff;
+	padding:10px;
+	text-decoration:none;
+	border-radius:2px;
+}
+.simplelender_menu_item, .sl_menu_item:hover{
+	background-color:gray;
+	color:#fff;
+	padding:4px 10px;
+	text-decoration:none;
+	border-radius:2px;
+}
+.simplelender_house_keeping{
+	width: 100px;
+}
+.simplelender_list_name{
+	font-weight:600;
+	color:#444c;
+}
+.simplelender_list_table{
+	width:100%;
+}
+.simplelender_title_feild td{
+	padding:10px 25px;
+}
+.simplelender_dash_link{
+	min-height:40px;
+	float:left;
+	color:#fff;
+	padding:30px;
+	font-size:30px;
+	min-width:18%;
+}
+.simplelender_add_node{
+	padding:5px 30px;
+	border-radius:5px;
+}
+.simplelender_close_recipient_class, .simplelender_close_url_class, .simplelender_close_args_class{
+	cursor:pointer;
+}
+.simplelender_menu_item_a{
+	padding:20px;
+	color:#fff;
+	text-decoration:none;
+}
+#simplelender_webhook_input{
+	
+}
+
+#simplelender_webhook_tags{
+	float:left;	
+	padding:60px 50px;
+	background:#fff;
+	margin-top:20px;
+	border-radius:5px;
+}
+
+#simplelender_webhook_input{
+	float:left;	
+	padding:30px;
+	min-width:60%;
+}
+.simplelender_post_tags {
+	display:none;
+}
+#right_simplelender_menu_item{
+	float:right !important;
+}
+a:active, a:focus {
+  outline: 0;
+  border: none;
+  -moz-outline-style: none;
+  box-shadow: none;
+}
+#final input[type=submit]{
+	padding:4px 30px;
+	border-radius:5px;
+	background-color:#05370699;
+	color:#fff;
+	border:0px;
+ }
+ code:active {
+	 border:1px red solid;
+ }
+ div#simplelender_dash_menu{
+	float:left;
+	width:30%;
+}
+.sl_list_single_message{
+	padding:3px;
+	width:100%;
+	border-top:1px solid #8080801a;
+}
+.sl_list_message_details{
+	font-size:10px;
+}
+#simplelenderMessageSubmitButton{
+	width:30%;
+	color:#fff;
+	background:#05370699;
+	padding:10px;
+	border-radius:26px;
+	border:1px #05370699 solid;
+	font-size:20px;
+	margin-top:5px;
+	float:right;
+}
+.sl_menu_sub_item{
+	background-color:gray;
+	color:#fff;
+	padding:15px;
+	text-decoration:none;
+	border-radius:5px;
+	float:right;
+}
+#simplelender_dash_content{
+	border:1px #93aab0 solid;
+}
+.sl_house_keeping{
+	color:#69686866;
+}
+.sl_list_single_item{
+	padding:6px 30px;
+}
+.simplelender_input_feild_small{
+	float:left;
+	height: 28px;
+	border-radius: 4px;
+	padding: 5px;
+	font-size: 16px;
+}
+.sl_submit_button{
+	height: 30px;
+	border-radius: 4px;
+	padding: 5px 25px;
+	font-size: 14px;
+	background: #0085ba;
+	border: #0085ba;
+	box-shadow: 0 1px 0 #006799;
+	color: #fff;
+	text-decoration: none;
+	text-shadow: 0 -1px 1px #006799,1px 0 1px #006799,0 1px 1px #006799,-1px 0 1px #006799;
+}
